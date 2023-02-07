@@ -1,3 +1,4 @@
+<div align="center">
 <h1> Hi im jinhuiju 👋</h1>
 
 
