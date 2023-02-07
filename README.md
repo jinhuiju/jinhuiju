@@ -1,5 +1,5 @@
 <div align="center">
-<h1> im jinhuiju 👋</h1>
+<h1> Im jinhuiju 👋</h1>
 
 
 <!--
