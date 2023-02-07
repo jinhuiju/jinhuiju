@@ -1,4 +1,5 @@
-### Hi im jinhuiju 👋
+<h1> Hi im jinhuiju 👋</h1>
+
 
 <!--
 **jinhuiju/jinhuiju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
