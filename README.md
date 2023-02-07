@@ -12,3 +12,7 @@ Here are some ideas to get you started:
 
 
 - [ 개인 블로그 ](https://huijuzzang.tistory.com/)
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinhuiju&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=jinhuiju&show_icons=true">
